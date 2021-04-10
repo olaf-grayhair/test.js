@@ -64,3 +64,11 @@ h1,p{
 p{
   color: red;
 }
+.text-1{
+  font-size: 24px;
+  text-align: center;
+  color: aqua;
+}
+.h2{
+  font-size: 50px;
+}
